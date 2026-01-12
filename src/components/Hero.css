@@ -1,0 +1,69 @@
+
+
+.hero {
+  position: relative;   /* NOT absolute */
+  min-height: 100vh;
+
+  padding-top: 72px;    /* SAME AS NAVBAR */
+
+  overflow: hidden;
+}
+
+
+.hero-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+  max-width: 600px;
+  margin-top: 150px;
+}
+
+.hero-content h1 {
+  font-size: 50px;
+  color: #9107fa;
+}
+
+.hero-content h1 span {
+  color: #9107fa;
+}
+
+.hero-content h2 {
+  font-size: 26px;
+  margin-top: 10px;
+  color: #ccc;
+}
+
+.hero-content p {
+  margin: 20px 0;
+  color: #aaa;
+  line-height: 1.6;
+}
+
+.hero-buttons {
+  display: flex;
+  gap: 15px;
+}
+
+.btn {
+  padding: 12px 28px;
+  border-radius: 30px;
+  border: 1px solid #b14cff;
+  background: transparent;
+  color: white;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.btn.primary {
+  background: linear-gradient(135deg, #b14cff, #7a00ff);
+  border: none;
+}
