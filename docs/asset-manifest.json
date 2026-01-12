@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Nejanden-Portfolio/static/css/main.ae2bd90b.css",
+    "main.js": "/Nejanden-Portfolio/static/js/main.c5088089.js",
+    "static/js/453.91ce0904.chunk.js": "/Nejanden-Portfolio/static/js/453.91ce0904.chunk.js",
+    "static/media/hero.mp4": "/Nejanden-Portfolio/static/media/hero.ee0cae5d0610fe9e4e35.mp4",
+    "index.html": "/Nejanden-Portfolio/index.html",
+    "main.ae2bd90b.css.map": "/Nejanden-Portfolio/static/css/main.ae2bd90b.css.map",
+    "main.c5088089.js.map": "/Nejanden-Portfolio/static/js/main.c5088089.js.map",
+    "453.91ce0904.chunk.js.map": "/Nejanden-Portfolio/static/js/453.91ce0904.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae2bd90b.css",
+    "static/js/main.c5088089.js"
+  ]
+}
